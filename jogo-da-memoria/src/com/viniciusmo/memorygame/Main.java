@@ -1,4 +1,4 @@
-package com.g3lab.memorygame;
+package com.viniciusmo.memorygame;
 
 import java.awt.Color;
 

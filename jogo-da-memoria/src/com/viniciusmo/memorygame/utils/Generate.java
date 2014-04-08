@@ -1,4 +1,4 @@
-package com.g3lab.memorygame.utils;
+package com.viniciusmo.memorygame.utils;
 
 import java.util.LinkedList;
 import java.util.Queue;

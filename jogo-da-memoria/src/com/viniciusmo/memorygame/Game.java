@@ -1,4 +1,4 @@
-package com.g3lab.memorygame;
+package com.viniciusmo.memorygame;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -8,7 +8,7 @@ import java.util.Queue;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 
-import com.g3lab.memorygame.utils.Generate;
+import com.viniciusmo.memorygame.utils.Generate;
 
 public class Game extends JPanel implements Valida {
 	private static final long serialVersionUID = 1L;
